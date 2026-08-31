@@ -32,7 +32,38 @@ const navItems = [
 
       <section id="course-materials" class="syllabus-section">
         <h2>课程资料</h2>
-        <p>后续将持续更新</p>
+
+        <h3>理论课资料</h3>
+
+       <h4>8.31 课件</h4>
+
+       <ul>
+          <li>
+            <a href="/course-materials/theory/2026-08-31/1.1%20人工智能简介.pptx" download>
+             1.1 人工智能简介
+            </a>
+          </li>
+
+         <li>
+            <a href="/course-materials/theory/2026-08-31/1.2%20人工智能代表性技术选讲.pptx" download>
+        1.2 人工智能代表性技术选讲
+            </a>
+         </li>
+
+         <li>
+            <a href="/course-materials/theory/2026-08-31/1.3%20人工智能简史.pptx" download>
+              1.3 人工智能简史
+            </a>
+         </li>
+
+         <li>
+           <a href="/course-materials/theory/2026-08-31/1.4%20本课程简介.pptx" download>
+             1.4 本课程简介
+            </a>
+         </li>
+        </ul>
+
+       <p>后续将持续更新</p>
       </section>
 
       <section id="outline-zh" class="syllabus-section">
