@@ -62,6 +62,33 @@ const navItems = [
             </a>
          </li>
         </ul>
+        <h4>9.7 课件</h4>
+
+       <ul>
+          <li>
+            <a href="/course-materials/theory/2026-09-07/2.1%20机器学习基础.pptx" download>
+             2.1 机器学习基础
+            </a>
+          </li>
+
+         <li>
+            <a href="/course-materials/theory/2026-09-07/2.2%20线性代数基础.pptx" download>
+              2.2 线性代数基础
+            </a>
+         </li>
+
+         <li>
+            <a href="/course-materials/theory/2026-09-07/2.3%20概率统计基础.pptx" download>
+              2.3 概率统计基础
+            </a>
+         </li>
+
+         <li>
+           <a href="/course-materials/theory/2026-09-07/监督学习的标准形式化与经验风险最小化.pdf" download>
+             监督学习的标准形式化与经验风险最小化
+            </a>
+         </li>
+        </ul>
 
        <p>后续将持续更新</p>
       </section>
