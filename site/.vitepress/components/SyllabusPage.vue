@@ -99,7 +99,7 @@ const navItems = [
           </li>
 
          <li>
-            <a href="/course-materials/theory/2026-09-07/2.5逻辑回归.pptx" download>
+            <a href="/course-materials/theory/2026-09-14/2.5逻辑回归.pptx" download>
               2.5 逻辑回归
             </a>
          </li>
