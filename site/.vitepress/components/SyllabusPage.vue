@@ -93,16 +93,26 @@ const navItems = [
 
        <ul>
           <li>
+            <a href="/course-materials/theory/2026-09-14/2.4.0回顾上一节课.pptx" download>
+             2.4.0 回顾上一节课
+            </a>
+          </li>
+          <li>
             <a href="/course-materials/theory/2026-09-14/2.4线性回归.pptx" download>
              2.4 线性回归
             </a>
           </li>
-
          <li>
-            <a href="/course-materials/theory/2026-09-14/2.5逻辑回归.pptx" download>
+            <a href="/course-materials/theory/2026-09-14/2.5%20逻辑回归.pptx" download>
               2.5 逻辑回归
             </a>
          </li>
+         
+          <li>
+            <a href="/course-materials/theory/2026-09-14/2.6%20多分类与过拟合.pptx" download>
+             2.6 多分类与过拟合
+            </a>
+          </li>
         </ul>
        <p>后续将持续更新</p>
       </section>
