@@ -89,6 +89,7 @@ const navItems = [
             </a>
          </li>
         </ul>
+
           <h4>9.14 课件</h4>
 
        <ul>
@@ -113,6 +114,28 @@ const navItems = [
              2.6 多分类与过拟合
             </a>
           </li>
+        </ul>
+
+        <h4>9.21 课件</h4>
+
+       <ul>
+          <li>
+            <a href="/course-materials/theory/2026-09-21/3.1%20前馈神经网络.pptx" download>
+             3.1 前馈神经网络
+            </a>
+          </li>
+          <li>
+            <a href="/course-materials/theory/2026-09-21/3.2%20神经网络优化.pptx" download>
+             3.2 神经网络优化
+            </a>
+          </li>
+         <li>
+            <a href="/course-materials/theory/2026-09-21/3.3%20深度神经网络.pptx" download>
+              3.3 深度神经网络
+            </a>
+         </li>
+         
+          
         </ul>
        <p>后续将持续更新</p>
       </section>
