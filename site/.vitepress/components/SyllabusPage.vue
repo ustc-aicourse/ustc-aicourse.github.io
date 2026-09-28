@@ -137,6 +137,32 @@ const navItems = [
          
           
         </ul>
+        <h4>9.28 课件</h4>
+
+       <ul>
+          <li>
+            <a href="/course-materials/theory/2026-09-28/4.1%20图学习基础.pptx" download>
+             4.1 图学习基础
+            </a>
+          </li>
+          <li>
+            <a href="/course-materials/theory/2026-09-28/4.2%20图表征学习.pptx" download>
+             4.2 图表征学习
+            </a>
+          </li>
+         <li>
+            <a href="/course-materials/theory/2026-09-28/4.3%20图神经网络.pptx" download>
+              4.3 图神经网络
+            </a>
+         </li>
+         <li>
+            <a href="/course-materials/theory/2026-09-28/4.4%20图神经网络.pptx" download>
+              4.4 图神经网络
+            </a>
+         </li>
+         
+          
+        </ul>
        <p>后续将持续更新</p>
       </section>
 
