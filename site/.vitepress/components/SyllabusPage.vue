@@ -134,7 +134,17 @@ const navItems = [
               3.3 深度神经网络
             </a>
          </li>
-         
+         <li>
+            <a href="/course-materials/theory/2026-09-21/3.2神经网络优化_LectureNotes.pdf" download>
+             3.2神经网络优化_LectureNotes
+            </a>
+          </li>
+          <li>
+            <a href="/course-materials/theory/2026-09-21/3.3深度神经网络_Lecture Notes.pdf" download>
+             3.3深度神经网络_Lecture Notes
+            </a>
+          </li>
+          
           
         </ul>
         <h4>9.28 课件</h4>
