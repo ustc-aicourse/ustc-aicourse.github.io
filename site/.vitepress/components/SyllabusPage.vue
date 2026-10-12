@@ -148,30 +148,40 @@ const navItems = [
           
         </ul>
         <h4>9.28 课件</h4>
-
        <ul>
           <li>
-            <a href="/course-materials/theory/2026-09-28/4.1%20图学习基础.pptx" download>
+            <a href="/course-materials/theory/2026-09-28/4.0%20回顾上一节课.pptx" download>
+             4.0 回顾上一节课
+            </a>
+          </li>
+          <li>
+            <a href="/course-materials/theory/2026-09-28/4.1 图学习基础.pptx" download>
              4.1 图学习基础
             </a>
           </li>
+         <li>
+            <a href="/course-materials/theory/2026-09-28/4.2 图表征学习.pptx" download>
+              4.2 图表征学习
+            </a>
+         </li>
+        </ul>
+        <h4>10.12 课件</h4>
+       <ul>
           <li>
-            <a href="/course-materials/theory/2026-09-28/4.2%20图表征学习.pptx" download>
-             4.2 图表征学习
+            <a href="/course-materials/theory/2026-10-12/4.3 图神经网络.pptx" download>
+             4.3 图神经网络
+            </a>
+          </li>
+          <li>
+            <a href="/course-materials/theory/2026-10-12/4.4 图神经网络.pptx" download>
+             4.4 图神经网络
             </a>
           </li>
          <li>
-            <a href="/course-materials/theory/2026-09-28/4.3%20图神经网络.pptx" download>
-              4.3 图神经网络
+            <a href="/course-materials/theory/2026-10-12/5.1注意力与自注意力机制.pptx" download>
+              5.1 注意力与自注意力机制
             </a>
          </li>
-         <li>
-            <a href="/course-materials/theory/2026-09-28/4.4%20图神经网络.pptx" download>
-              4.4 图神经网络
-            </a>
-         </li>
-         
-          
         </ul>
        <p>后续将持续更新</p>
       </section>
