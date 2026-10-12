@@ -160,7 +160,7 @@ const navItems = [
             </a>
           </li>
          <li>
-            <a href="/course-materials/theory/2026-09-28/4.2 图表征学习.pptx" download>
+            <a href="/course-materials/theory/2026-09-28/4.2 图表征学习(1).pptx" download>
               4.2 图表征学习
             </a>
          </li>
