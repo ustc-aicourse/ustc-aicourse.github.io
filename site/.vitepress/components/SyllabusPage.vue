@@ -183,6 +183,24 @@ const navItems = [
             </a>
          </li>
         </ul>
+        <h4>10.19 课件</h4>
+       <ul>
+          <li>
+            <a href="/course-materials/theory/2026-10-19/5.2Transformer的编码与解码器.pptx" download>
+             5.2 Transformer的编码与解码器
+            </a>
+          </li>
+          <li>
+            <a href="/course-materials/theory/2026-10-19/5.3Transformer的典型应用与跨模态能力.pptx" download>
+             5.3 Transformer的典型应用与跨模态能力
+            </a>
+          </li>
+         <li>
+            <a href="/course-materials/theory/2026-10-19/6.1 自监督学习概述.pptx" download>
+              6.1 自监督学习概述
+            </a>
+         </li>
+        </ul>
        <p>后续将持续更新</p>
       </section>
 
