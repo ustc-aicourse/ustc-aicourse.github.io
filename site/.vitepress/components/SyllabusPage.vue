@@ -183,7 +183,7 @@ const navItems = [
             </a>
          </li>
         </ul>
-        <h4>10.19 课件</h4>
+        <h4>10.19,10.26 课件</h4>
        <ul>
           <li>
             <a href="/course-materials/theory/2026-10-19/5.2Transformer的编码与解码器.pptx" download>
@@ -191,13 +191,31 @@ const navItems = [
             </a>
           </li>
           <li>
-            <a href="/course-materials/theory/2026-10-19/5.3Transformer的典型应用与跨模态能力.pptx" download>
+            <a href="/course-materials/theory/2026-10-26/5.3Transformer的典型应用与跨模态能力.pptx" download>
              5.3 Transformer的典型应用与跨模态能力
             </a>
           </li>
          <li>
-            <a href="/course-materials/theory/2026-10-19/6.1 自监督学习概述.pptx" download>
+            <a href="/course-materials/theory/2026-10-26/6.1 自监督学习概述.pptx" download>
               6.1 自监督学习概述
+            </a>
+         </li>
+        </ul>
+        <h4>11.02 课件</h4>
+       <ul>
+          <li>
+            <a href="/course-materials/theory/2026-11-02/6.2 word2vec与BERT模型.pptx" download>
+             6.2 word2vec与BERT模型
+            </a>
+          </li>
+          <li>
+            <a href="/course-materials/theory/2026-11-02/6.3 自回归语言建模.pptx" download>
+             6.3 自回归语言建模
+            </a>
+          </li>
+         <li>
+            <a href="/course-materials/theory/2026-11-02/6.4 大语言模型.pptx" download>
+              6.4 大语言模型
             </a>
          </li>
         </ul>
